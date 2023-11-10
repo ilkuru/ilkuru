@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Ilya</a> 👋</h1>
-<h3 align="center">System Adminisstrator Linux, Windows & student Python from Russia</h3>
+<h3 align="center">System Administrator Linux, Windows & student Python from Russia</h3>
 <!--
 **ilkuru/ilkuru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
