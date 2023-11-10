@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Ilya</a> 👋</h1>
 <h3 align="center">System Adminisstrator Linux, Windows & student Python from Russia</h3>
 <!--
