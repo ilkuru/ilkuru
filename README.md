@@ -1,5 +1,5 @@
 <h1>Hi there, I'm Ilya 👋</h1>
-<h3>System Administrator Linux, Windows & student Python</h3>
+<h3>System Administrator Linux, Windows
 <!--
 **ilkuru/ilkuru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <a href="https://daniilshat.ru/" target="_blank">Ilya</a>
